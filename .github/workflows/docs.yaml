@@ -53,5 +53,5 @@ jobs:
 
       run: |
         cd docs
-	make html
-	cd ../
+        make html
+        cd ../

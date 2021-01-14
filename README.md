@@ -5,7 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/hesther/molssi_best_practices/branch/master/graph/badge.svg)](https://codecov.io/gh/hesther/molssi_best_practices/branch/master)
 
 
-A python package for analyzing and visualizing molecular files. For MolSSI Workshop
+A python package for analyzing and visualizing molecular files. For MolSSI Workshop. This is not a real package.
 
 ### Copyright
 
